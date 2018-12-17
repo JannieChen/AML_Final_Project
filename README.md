@@ -1,5 +1,4 @@
-# AML_Final_Project
-AML_Final_Project_For_CIFAR_Image_Classification
+# AML_Final_Project_For_CIFAR_Image_Classification
 
 Nowadays, deep learning plays an important role in our daily life. Image classification is a fundamental and progressive problem in the deep learning field. People try to teach computers to recognize an increasing number of types of pictures by building sophisticated convolution networks. 
  
